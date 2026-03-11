@@ -1,0 +1,3 @@
+[submodule "ddx-library"]
+	path = ddx-library
+	url = https://github.com/easel/ddx-library.git
